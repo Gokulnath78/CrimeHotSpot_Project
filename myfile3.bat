@@ -1,0 +1,1 @@
+START chrome file:///C:/project2/crime_hotspot_new/templates/mydirection2.html
